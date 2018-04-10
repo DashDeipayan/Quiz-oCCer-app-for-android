@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz\'occer</string>
+
+
+    <string name="initial_score">Score: 0/13</string>
+
+    <string name="qtrue">TRUE</string>
+    <string name="qfalse">FALSE</string>
+
+
+    <string name="Question_1">Landon Donovan is An American Footballer</string>
+    <string name="Question_2">1954 FIFA World Cup was won by Italy</string>
+    <string name="Question_3">Pelé has won a total of 6 WCs in his career</string>
+    <string name="Question_4">Uefa Champions League 2013 was won by Real Madrid</string>
+    <string name="Question_5">Carlos Puyol is a FC Barcelona legend </string>
+    <string name="Question_6">The 2006 FIFA World Cup was held in Germany</string>
+    <string name="Question_7">Cristiano Ronaldo has the highest consecutive scoring record in UEFA Champions League</string>
+    <string name="Question_8">Ji Sung Park is a Japanese Footballer</string>
+    <string name="Question_9">After Real Madrid, FC Barcelona has the most number of UCL</string>
+    <string name="Question_10">In a calendar year Lionel Messi holds the record to score highest number of goals</string>
+    <string name="Question_11">Brazil won the 1950 FIFA World Cup</string>
+    <string name="Question_12">The Hand-Of-God accredited goal of Maradona was scored against Italy</string>
+    <string name="Question_13">Winner of the First FIFA Puskas Award was Zlatàn Ibrahimović</string>
+    <string name="Question_14">Ryan Giggs was a Welsh Footballer</string>
+    <string name="Question_15">Lionel Messi is the best Footballer ever</string>
+
+
+    <string name="credits">- Made by Deipayan Dash</string>
+
+
+</resources>
